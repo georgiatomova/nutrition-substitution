@@ -7,7 +7,7 @@ This project explores the analyses and interpretation of nutrient or food substi
 * Setup
 
 ## Data
-All data used for the analyses were simulated based on [NDNS Summary statistics from years 7-8](#NDNS_yr_7_to_8_statistics.xlsx). 
+All data used for the analyses were simulated based on mean and SD values similar to those in [NDNS Summary statistics from years 7-8](#NDNS_yr_7_to_8_statistics.xlsx).  
 For the food substitution analyses only, real data was used to extract specific means required for the simulation. [NDNS Year 7-8](https://www.gov.uk/government/collections/national-diet-and-nutrition-survey) data can be downloaded from the [UK Data Service](https://www.ukdataservice.ac.uk). 
 
 ## Setup
