@@ -1,3 +1,7 @@
+###----------------------------
+# Both nutrient_substitution.R and food_substitution.R need to be run before running this script
+###----------------------------
+
 library(psych); library(car)
 
 # When all groups are included, some estimates are inestimable
