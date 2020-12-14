@@ -17,6 +17,6 @@ The file food_substitution.R contains secondary analyses using food groups.
 The file multicollinearity.R explores multicollinearity in some of the models contained in food_substitution.R  
 
 Order in which files should be run:  
-* 1) nutrition_substitution.R  
-* 2) food_substitution.R (or food_substitution_nodata.R)  
-* 3) multicollinearity.R
+1. nutrition_substitution.R  
+2. food_substitution.R (or food_substitution_nodata.R)  
+3. multicollinearity.R
